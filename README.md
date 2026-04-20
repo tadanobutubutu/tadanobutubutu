@@ -1,2 +1,1 @@
-# tadanobutubutu
-基地外キッズ
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tuyartpzfuk3mvi5pikwa7c5k4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tuyartpzfuk3mvi5pikwa7c5k4&redirect=true)
